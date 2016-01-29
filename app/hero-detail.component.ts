@@ -19,4 +19,5 @@ import {Hero} from './hero';
 
 export class HeroDetailComponent {
     public hero: Hero;
+
 }
